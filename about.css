@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.div1{	
+	background-color: #35424a;
+	border-bottom: 5px solid coral;
+}
+.div2{
+	font-family: sans-serif;
+	width: 80%;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+}
+.div2 h1,ul li{
+	display: inline-block;
+}
+.div2 ul{
+	padding-top: 10px;
+	float: right;
+	display: inline-block;
+}
+.div2 h1 span{
+	color: coral;
+}
+.div2 ul li a{
+	cursor: pointer;
+	padding: 0px 10px;
+	text-decoration: none;
+	color: white;
+}
+.div2 ul li a:hover{
+	color: coral;
+}
+.div3{
+	background-color: #35424a;
+	width: 100%;
+}
+.div4{
+	font-family: sans-serif;
+	padding: 20px 0;
+	color: white;
+	margin: auto;
+	width: 75%;
+}
+.div4 .div5{
+	float: right;
+}
+.div4 h2{
+	display: inline-block;
+}
+.div5 input{
+	height: 25px;
+}
+.button{
+	padding: 5px;
+	background-color: coral;
+	border: none;
+	color: white;
+	height: 25px;
+	cursor: pointer;
+}
+.div6{
+	font-family: sans-serif;
+	padding-top: 20px;
+	width: 100%;
+	display: flex;
+}
+.div7{
+	width: 100%;
+	padding: 20px 0px;
+	text-align: center;
+	background-color: coral;
+	margin-top: 20px;
+	color: white;
+}
+.div10,.div11{
+	background-color: #35424a;
+	color: white;
+}
+.div8{
+	font-family: sans-serif;
+	margin: 0 5%;
+}
+.div11{
+	height: 170px;
+	padding: 10px;
+	margin: 0px 5%;
+}
+.div11 p{
+	margin-top:15px;
+}
+.div10{
+	margin-top: 10px;
+	padding: 12px;
+}
+.div9 p{
+	margin-top: 15px;
+}
+.div2 ul li .a2{
+	color: coral;
+}
